@@ -5,8 +5,7 @@ output:
   html_document: default
 ---
 
-This document lays out R code for all analyses and creates figures for "Climate and habitat continuity interact to alter contemporary dispersal potential", by: Lauren L. Sullivan, Zoe M. Portlas, Kelsey M. Jaeger, Mercedes Hoffner, and Jill A. Hamilton (submitted 2023 to *Ecology*). Code was created by Lauren Sullivan, please contact LLSULL@msu.edu with questions. 
-
+This document lays out R code for all analyses and creates figures for "Climate and habitat continuity interact to alter contemporary dispersal potential", by: Lauren L. Sullivan, Zoe M. Portlas, Kelsey M. Jaeger, Mercedes Hoffner, and Jill A. Hamilton (submitted 2023 to *Ecology & Evolution*). Code was created by Lauren Sullivan, please contact LLSULL@msu.edu with questions. 
 
 
 
